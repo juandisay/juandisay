@@ -9,12 +9,12 @@
 <a href="https://dev.to/juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 Juandisay | 👩🏻‍💻 Software Engineer | 🌏 Indonesia, ID </h3>
+<h3> 👱 Juandisay | 👱 💻 Software Engineer | 🌏 Indonesia, ID </h3>
 </div>
 
 ### :octocat: About me 
 
-- 👩🏻 Pronouns: `he/him`
+- 👱 Pronouns: `he/him`
 - 🔭 Currently working on something cool.
 - 👯 Let's collaborate on create cool `websites`, `Desktop`.
 - 🤔 Need some help with `technical interview`.
