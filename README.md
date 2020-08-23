@@ -22,7 +22,7 @@
 - 💭 Let's get to know each other 🌟
 
 
-### 📕 Checkout my Blog Posts on [Medium](https://medium.com/@juandisay) & [Dev.to](https://dev.to/juandisay)
+### 📕 Checkout my Blog Posts on [Medium](https://medium.com/10minuteread) & [Dev.to](https://dev.to/juandisay)
 
 
 <div align="center">
