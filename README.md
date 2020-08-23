@@ -17,7 +17,7 @@
 - 👱 Pronouns: `he/him`
 - 🔭 Currently working on something cool.
 - 👯 Let's collaborate on create cool `websites`, `Desktop`.
-- 🤔 Need some help with `technical interview`.
+- 🤔 Share Your project `I'm Freelancer!`.
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
 
