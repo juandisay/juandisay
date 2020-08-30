@@ -20,7 +20,3 @@
 - 🤔 Share Your project and `lets discuss buddy!`.
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
-
-### 📕 Last Repos
-- ![Youtube-dl](https://github.com/juandisay/youtube-dl)
-    `Forking Youtube-dl and maintenance`
