@@ -21,9 +21,6 @@
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
 
-<div align="center">
 ### 📕 Last Repos
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
- - ![Youtube-dl](https://github.com/juandisay/youtube-dl)
+- ![Youtube-dl](https://github.com/juandisay/youtube-dl)
     `Forking Youtube-dl and maintenance`
-</div>
