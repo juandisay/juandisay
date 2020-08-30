@@ -21,11 +21,9 @@
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
 
-### 📕 Checkout my Blog Posts on [Medium](https://medium.com/10minuteread) & [Dev.to](https://dev.to/juandisay)
-
 <div align="center">
+### 📕 Last Repos
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandisay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Trinity's github stats](https://github-readme-stats.vercel.app/api/?username=juandisay&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
+ - ![Youtube-dl](https://github.com/juandisay/youtube-dl)
+    `Forking Youtube-dl and maintenance`
 </div>
