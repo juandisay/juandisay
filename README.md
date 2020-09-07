@@ -21,8 +21,6 @@
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
 
-
-### Active Project
 ![](https://juandisay.org)
 -  Open Source Contribution  <br>
 [Nurse4Human](https://github.com/nurse4human)<br>
