@@ -20,9 +20,7 @@
 - 🤔 Share Your project and `lets discuss buddy!`.
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
-
-![](https://juandisay.org)
--  Open Source Contribution  <br>
+-  Open Source Contribution
 [Nurse4Human](https://github.com/nurse4human)<br>
 [YoutubeDl](https://https://github.com/juandisay/youtube-dl)<br>
 [Papamana.com](https://github.com/upwoker)<br>
