@@ -21,7 +21,7 @@
 [Diana.kit](https://github.com/DianaProject)
 
 <p align='center'>
-<p> Lets talk </p>
+<i> Lets talk </i>
 <a href="https://www.linkedin.com/in/juandisay/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
