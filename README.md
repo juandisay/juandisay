@@ -9,7 +9,7 @@
 <a href="https://dev.to/juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👱 Juandisay | 👱 💻 Software Engineer | 🌏 Indonesia, ID </h3>
+<h3> 👱 Juandisay | 👱 💻 Fullstack Dev | 🌏 Indonesia, ID </h3>
 </div>
 
 ### :octocat: About me 
@@ -24,9 +24,3 @@
 [Nurse4Human](https://github.com/nurse4human)<br>
 [YoutubeDl](https://https://github.com/juandisay/youtube-dl)<br>
 [Papamana.com](https://github.com/upwoker)<br>
-
-Skill Emblem ...
-- [Python]
-- [TypeScript]
-- [Javascript]
-- [DevOps]
