@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3> 👱 Juandisay | 👱 💻 Fullstack Dev | 🌏 Indonesia, ID </h3>
+<h3> 👱 I'm Juandisay 🏹 👱 💻 Fullstack Dev 🏹 🌏 DevOps </h3>
 </div>
 
 ### :octocat: About me 
