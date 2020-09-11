@@ -16,10 +16,10 @@
 - 💭 Let's get to know each other 🌟
 
 > 🤲 Open Source Contribution: <br>
- > > [Nurse4Human](https://github.com/nurse4human)<br>
- > > [YoutubeDl](https://https://github.com/juandisay/youtube-dl)<br>
- > > [Upworker](https://github.com/upwoker)<br>
- > > [Diana.kit](https://github.com/DianaProject)
+ > > - [Nurse4Human](https://github.com/nurse4human)<br>
+ > > - [YoutubeDl](https://https://github.com/juandisay/youtube-dl)<br>
+ > > - [Upworker](https://github.com/upwoker)<br>
+ > > - [Diana.kit](https://github.com/DianaProject)
 
 <p align='center'>
 <i> Lets talk </i> <br>
