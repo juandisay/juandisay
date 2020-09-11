@@ -9,7 +9,7 @@
 ### :octocat: About me 
 
 - 👱 Pronouns: `he/him`
-- 🔭 Currently working on something cool.
+- 🔭 Currently working on papamana.com - Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
 - 👯 Let's collaborate on create cool `websites`, `Desktop`.
 - 🤔 Share Your project and `lets discuss buddy!`.
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
