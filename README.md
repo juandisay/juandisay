@@ -15,10 +15,10 @@
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
 - 🤲 Open Source Contribution: <br>
- - [Nurse4Human](https://github.com/nurse4human)<br>
- - [YoutubeDl](https://https://github.com/juandisay/youtube-dl)<br>
- - [Upworker](https://github.com/upwoker)<br>
- - [Diana.kit](https://github.com/DianaProject)
+ 1. [Nurse4Human](https://github.com/nurse4human)<br>
+ 2. [YoutubeDl](https://https://github.com/juandisay/youtube-dl)<br>
+ 3. [Upworker](https://github.com/upwoker)<br>
+ 4. [Diana.kit](https://github.com/DianaProject)
 
 <p align='center'>
 <i> Lets talk </i> <br>
