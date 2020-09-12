@@ -18,18 +18,12 @@
 - 🔭 Currently working on [papamana.com](https://papamana.com) - Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
 - 👯 Let's collaborate on create cool `apps`.
 - 🤔 Let's discuss about bussiness drop your contact `info@juandisay.org`.
-- 🤲 Open Source Contribution: <br>
->
- > > - [Nurse4Human](https://github.com/nurse4human)<br>
- > > - [YoutubeDl](https://https://github.com/juandisay/youtube-dl)<br>
- > > - [Upworker](https://github.com/upwoker)<br>
- > > - [Diana.kit](https://github.com/DianaProject)
 
 <p align='center'>
 <i> Open Source Contribution </i> <br>
-<a href="https://github.com/DianaProject"><img height="30" src="https://avatars2.githubusercontent.com/u/24384746"></a>&nbsp;&nbsp;
-<a href="https://github.com/upwoker"><img height="30" src="https://avatars2.githubusercontent.com/u/58653308"></a>&nbsp;&nbsp;
-<a href="https://github.com/nurse4human"><img height="30" src="https://avatars0.githubusercontent.com/u/63691984"></a>&nbsp;&nbsp;
-<a href="https://github.com/AgricultureTech"><img height="30" src="https://avatars1.githubusercontent.com/u/71110037"></a>&nbsp;&nbsp;
-<a href="https://github.com/LetGoFarmer"><img height="30" src="https://avatars1.githubusercontent.com/u/71113271"></a>&nbsp;&nbsp;
-<a href="https://github.com/dooflex"><img height="30" src="https://avatars0.githubusercontent.com/u/71158196"></a>&nbsp;&nbsp;
+<a href="https://github.com/DianaProject" target="_blank"><img height="30" src="https://avatars2.githubusercontent.com/u/24384746"></a>&nbsp;&nbsp;
+<a href="https://github.com/upwoker" target="_blank"><img height="30" src="https://avatars2.githubusercontent.com/u/58653308"></a>&nbsp;&nbsp;
+<a href="https://github.com/nurse4human" target="_blank"><img height="30" src="https://avatars0.githubusercontent.com/u/63691984"></a>&nbsp;&nbsp;
+<a href="https://github.com/AgricultureTech" target="_blank"><img height="30" src="https://avatars1.githubusercontent.com/u/71110037"></a>&nbsp;&nbsp;
+<a href="https://github.com/LetGoFarmer" target="_blank"><img height="30" src="https://avatars1.githubusercontent.com/u/71113271"></a>&nbsp;&nbsp;
+<a href="https://github.com/dooflex" target="_blank"><img height="30" src="https://avatars0.githubusercontent.com/u/71158196"></a>&nbsp;&nbsp;
