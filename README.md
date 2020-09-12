@@ -16,8 +16,8 @@
 
 - 👱 Pronouns: `he/him`
 - 🔭 Currently working on [papamana.com](https://papamana.com) - Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
-- 👯 Let's collaborate on create cool `apps`.
-- 🤔 Let's discuss about bussiness drop your contact `info@juandisay.org`.
+- 👯 Let's collaborate on create cool `[apps](https://calendly.com/juandisay/jobs-hours)`.
+- 🤔 Let's discuss about bussiness drop your contact to `info@juandisay.org`.
 
 <p align='center'>
 <i> Open Source Contribution </i> <br>
