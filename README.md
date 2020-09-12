@@ -10,7 +10,7 @@
 
 - 👱 Pronouns: `he/him`
 - 🔭 Currently working on [papamana.com](https://papamana.com) - Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
-- 👯 Let's collaborate on create cool `websites`, `Desktop`.
+- 👯 Let's collaborate on create cool `apps`.
 - 🤔 Share Your project and `lets discuss buddy!`.
 - ⚡ Fun fact: I'm a `perfectionist` 🤔
 - 💭 Let's get to know each other 🌟
