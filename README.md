@@ -27,3 +27,6 @@
 <a href="https://github.com/AgricultureTech" target="_blank"><img height="30" src="https://avatars1.githubusercontent.com/u/71110037"></a>&nbsp;&nbsp;
 <a href="https://github.com/LetGoFarmer" target="_blank"><img height="30" src="https://avatars1.githubusercontent.com/u/71113271"></a>&nbsp;&nbsp;
 <a href="https://github.com/dooflex" target="_blank"><img height="30" src="https://avatars0.githubusercontent.com/u/71158196"></a>&nbsp;&nbsp;
+ 
+ 📊 **This week I spent my time on**
+ <!--START_SECTION:waka--> <!--END_SECTION:waka-->
