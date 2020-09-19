@@ -29,4 +29,12 @@
 <a href="https://github.com/dooflex" target="_blank"><img height="30" src="https://avatars0.githubusercontent.com/u/71158196"></a>&nbsp;&nbsp;
  
  📊 **This week I spent my time on**
- <!--START_SECTION:waka--> <!--END_SECTION:waka-->
+ <!--START_SECTION:waka-->
+```text
+JavaScript   17 hrs 46 mins  ██████████████░░░░░░░░░░░   55.63 % 
+HTML         7 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.97 % 
+JSON         2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TypeScript   2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Vue.js       1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+```
+<!--END_SECTION:waka-->
