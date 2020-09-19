@@ -42,7 +42,7 @@ Vue.js       1 hr 35 mins    █▒░░░░░░░░░░░░░░░
 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
 - [Blog Post Workflow — GitHub Marketplace](https://medium.com/@juandisay/blog-post-workflow-github-marketplace-dc5e748637ca?source=rss-2c9425bfc472------2)
-- [Introduction](https://dev.to/juandisay/introduction-4cnd)
+- [Introduction About me on Dev!](https://dev.to/juandisay/introduction-4cnd)
 - [Member class Typescript](https://medium.com/10minuteread/member-class-typescript-cc691b9dd841?source=rss-2c9425bfc472------2)
 - [Hello World!](https://medium.com/10minuteread/hello-world-219e248b6589?source=rss-2c9425bfc472------2)
 - [Bapak sudah tidak ada](https://medium.com/@juandisay/bapak-sudah-tidak-ada-8708ca0d343f?source=rss-2c9425bfc472------2)
