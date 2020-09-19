@@ -39,7 +39,7 @@ Vue.js       1 hr 35 mins    █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-**Latest Update**
+📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
 - [Introduction](https://dev.to/juandisay/introduction-4cnd)
 <!-- BLOG-POST-LIST:END -->
