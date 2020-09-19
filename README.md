@@ -38,3 +38,7 @@ TypeScript   2 hrs 1 min     █▓░░░░░░░░░░░░░░░
 Vue.js       1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 <!--END_SECTION:waka-->
+
+**Latest Update**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
