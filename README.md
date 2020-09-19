@@ -12,7 +12,7 @@
 <a href="https://dev.to/juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 
 
-### :octocat: About me 
+:octocat: **About me** 
 
 - 👱 Pronouns: `he/him`
 - 🔭 Currently working on [papamana.com](https://papamana.com) - Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
