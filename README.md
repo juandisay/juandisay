@@ -15,7 +15,7 @@
 :octocat: **About me** 
 
 - 👱 Pronouns: `he/him`
-- 🔭 Currently working on [papamana.com](https://papamana.com) - Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
+- 🔭 Currently working on Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
 - 👯 Let's collaborate on create cool [apps](https://calendly.com/juandisay/collabs).
 - 🤔 Let's discuss about bussiness drop your contact to `info@juandisay.org`.
 
