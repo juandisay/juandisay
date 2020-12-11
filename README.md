@@ -41,9 +41,9 @@ Python       34 mins         ▒░░░░░░░░░░░░░░░░
 
 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
+- [Run vscode in browser with Coder server](https://medium.com/@juandisay/run-vscode-in-browser-with-coder-server-9cb748cba168?source=rss-2c9425bfc472------2)
 - [TUHAN LAGI BERSAPA](https://medium.com/@juandisay/tuhan-lagi-bersapa-a40d1523c19b?source=rss-2c9425bfc472------2)
 - [Mode God Design Browser](https://dev.to/juandisay/mode-god-design-browser-10ch)
 - [Blog Post Workflow — GitHub Marketplace](https://medium.com/@juandisay/blog-post-workflow-github-marketplace-dc5e748637ca?source=rss-2c9425bfc472------2)
 - [Introduction About me on Dev!](https://dev.to/juandisay/introduction-4cnd)
-- [Member class Typescript](https://medium.com/10minuteread/member-class-typescript-cc691b9dd841?source=rss-2c9425bfc472------2)
 <!-- BLOG-POST-LIST:END -->
