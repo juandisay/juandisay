@@ -33,9 +33,9 @@ Python       34 mins         ▒░░░░░░░░░░░░░░░░
 
 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
+- [How To Use MySQL DROP USER to Delete a User Account in MySQL](https://juandisay.medium.com/how-to-use-mysql-drop-user-to-delete-a-user-account-in-mysql-70e15083d014?source=rss-2c9425bfc472------2)
 - [How to enable Remote access to your MariaDB/MySQL database](https://juandisay.medium.com/how-to-enable-remote-access-to-your-mariadb-mysql-database-bda1141d6bef?source=rss-2c9425bfc472------2)
 - [Hello, Cloud!](https://medium.com/10minuteread/hello-cloud-9a025b51421e?source=rss-2c9425bfc472------2)
 - [What’s New in Node.js 12: ESM Imports](https://juandisay.medium.com/whats-new-in-node-js-12-esm-imports-ae2caa3eca8b?source=rss-2c9425bfc472------2)
 - [Run vscode in browser with Coder server](https://juandisay.medium.com/run-vscode-in-browser-with-coder-server-9cb748cba168?source=rss-2c9425bfc472------2)
-- [No space left on device when using docker-compose, why ?](https://juandisay.medium.com/no-space-left-on-device-when-using-docker-compose-why-db7d56d4ccee?source=rss-2c9425bfc472------2)
 <!-- BLOG-POST-LIST:END -->
