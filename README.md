@@ -18,17 +18,6 @@
 - 🔭 Currently working on Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
 - 🤔 Let's discuss about bussiness drop your contact to `info@juandisay.org`.
 
- 
- 📊 **This week I spent my time on**
- <!--START_SECTION:waka-->
-```text
-JavaScript   21 hrs 47 mins  ███████████████░░░░░░░░░░   59.74 % 
-Vue.js       10 hrs 4 mins   ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-HTML         2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-JSON         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Python       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-```
-<!--END_SECTION:waka-->
 
 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
