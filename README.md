@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3> 👱 I'm Juandisay 🏹 👱 💻 Fullstack Dev 🏹 🌏 DevOps </h3>
+<h3> 👱 I'm Juandisay 🏹 👱 💻 Fullstack Developer 🏹 🌏 DevOps </h3>
 </div>
 <p align='center'>
 <a href="https://www.linkedin.com/in/juandisay/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
