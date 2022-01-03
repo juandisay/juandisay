@@ -18,6 +18,7 @@
 - 👱 Pronouns: `he/him`
 - 🔭 Currently working on Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
 - 🤔 Let's discuss about bussiness drop your contact to `info@juandisay.org`.
+- 😂 lets get my newsletter `news.juandisay.org`.
 
 
 📚 **Latest Blog Post**
