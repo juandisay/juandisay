@@ -10,6 +10,7 @@
 <a href="https://medium.com/@juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/juandisay"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://news.juandisay.org"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 
 
 :octocat: **About me** 
