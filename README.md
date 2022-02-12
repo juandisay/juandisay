@@ -23,9 +23,6 @@
 
 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
-- [How to Install PostgreSQL in Ubuntu 20.04 on Multipass Instance](https://juandisay.medium.com/how-to-install-postgresql-in-ubuntu-20-04-on-multipass-instance-df8f3213ff23?source=rss-2c9425bfc472------2)
-- [How To Use MySQL DROP USER to Delete a User Account in MySQL](https://juandisay.medium.com/how-to-use-mysql-drop-user-to-delete-a-user-account-in-mysql-70e15083d014?source=rss-2c9425bfc472------2)
-- [How to enable Remote access to your MariaDB/MySQL database](https://juandisay.medium.com/how-to-enable-remote-access-to-your-mariadb-mysql-database-bda1141d6bef?source=rss-2c9425bfc472------2)
-- [Delete Helm Deployment &amp; Namespace {How-To} | phoenixNAP KB](https://juandisay.medium.com/delete-helm-deployment-namespace-how-to-phoenixnap-kb-9ece3b1dedda?source=rss-2c9425bfc472------2)
-- [Hello, Cloud!](https://medium.com/10minuteread/hello-cloud-9a025b51421e?source=rss-2c9425bfc472------2)
+- [Mode God Design Browser](https://dev.to/juandisay/mode-god-design-browser-10ch)
+- [Introduction About me on Dev!](https://dev.to/juandisay/introduction-4cnd)
 <!-- BLOG-POST-LIST:END -->
