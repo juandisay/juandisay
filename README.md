@@ -13,14 +13,13 @@
 <a href="https://news.juandisay.org"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
 
 
+[![wakatime](https://wakatime.com/badge/user/05feaa9c-1caa-4428-8a19-2dfbdb0bb1d1.svg)](https://wakatime.com/@05feaa9c-1caa-4428-8a19-2dfbdb0bb1d1)
 :octocat: **About me** 
 
 - 👱 Pronouns: `he/him`
 - 🔭 Currently working on Freelancer as [Remote Working](https://juandisay.org/awesome-remote-job/).
 - 🤔 Let's discuss about bussiness drop your contact to `info@juandisay.org`.
 - 😂 lets get my newsletter `news.juandisay.org`.
-
- [![wakatime](https://wakatime.com/badge/user/05feaa9c-1caa-4428-8a19-2dfbdb0bb1d1.svg)](https://wakatime.com/@05feaa9c-1caa-4428-8a19-2dfbdb0bb1d1)
 
 📚 **Latest Blog Post**
 <!-- BLOG-POST-LIST:START -->
